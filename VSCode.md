@@ -16,4 +16,10 @@ El siguiente paso será buscar en la barra de busqueda, la extensión que queram
 
 ![InstalaExtensionesVSCode](https://github.com/enriquepoler/EDD/blob/master/img/captura2VSCode.png)
 
-Y si esta extensión necesita otras extensiones para funcionar, se pondran a instalarse todas a la vez como podemos ver en la siguiente imagen, 
+Y si esta extensión necesita otras extensiones para funcionar, se pondran a instalarse todas a la vez como podemos ver en la siguiente imagen:
+
+![InstalandoExtensionesVSCode](https://github.com/enriquepoler/EDD/blob/master/img/captura3VSCode.png)
+
+Una vez esté instalado todo, deberemos acceder al archivo de configuración del java.home o JDK, podemos hacerlo a traves de la pestaña del VSCode, Archivo, Preferencias, Configuración. Una vez llegados a este punto, en la barra de búsqueda de configuración, podemos poner o java.home o jdk, y entramos en el archivo de configuración de la primera busqueda. una vez en el archivo, añadiremos una nueva linea, primero pondremos una "," en el final de la ultima linea, para separar, y en la linea siguiente escribiremos "java.json": "ruta_del_openjdk". En la siguiente imagen tenemos un ejemplo, en mi caso la ruta es "/usr/lib/jvm/java-11-openjdk-amd64":
+
+![AgregarOpenJDK](https://github.com/enriquepoler/EDD/blob/master/img/captura4VSCode.png)
