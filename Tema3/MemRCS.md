@@ -35,7 +35,7 @@ No tinc la posibilitat de canviar d'usuari, no soc administrador ni tinc altre c
 ###### 9. Si podeu, afegiu més informació al fitxer, ara serà la versió 1.3.
 nano exercici.md
 ###### Hola mundo, Enrique Poler prueba checkout
-versio 3, anyadir informacio
+versio 3, afegir informacio
 
 ---
 ###### 10. Com a l’usuari original, visualitzeu les diferències entre les versions, i torneu a la versió 1.2.
@@ -60,7 +60,7 @@ retrieving revision 1.3
 diff -r1.2 -r1.3
 1a2,3
 .>
-.> versio 3, anyadir informacio.
+.> versio 3, afegir informacio.
 ---
 co -r1.2 exercici.md
 ./exercici.md,v  -->  ./exercici.md
