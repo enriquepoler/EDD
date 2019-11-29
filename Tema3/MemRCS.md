@@ -42,6 +42,7 @@ versio 3, anyadir informacio
 rcsdiff -r1.1 -r1.2 exercici.md
 
 ===================================================================
+
 RCS file: ./exercici.md,v
 retrieving revision 1.1
 retrieving revision 1.2
@@ -54,6 +55,7 @@ diff -r1.1 -r1.2
 rcsdiff -r1.2 -r1.3 exercici.md
 
 ===================================================================
+
 RCS file: ./exercici.md,v
 retrieving revision 1.2
 retrieving revision 1.3
