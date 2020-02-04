@@ -24,3 +24,8 @@ gcc -Wall -g calc.o calcula.c -o calcula
 Aixi haurem obtingut el fitxer executable 'calcula', amb el coresponent link al calcula.c
 
 # Creacio del Makefile
+
+El makefile, és, basicament, la automatitzacio de la compilacio de, per exemple, l'archiu calcula, aixi no has de fer tot el proces cada vegada si has fet canvis en els archius.
+
+Per tant, anem a vore com es crea un archiu makefile.
+
